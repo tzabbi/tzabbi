@@ -10,12 +10,12 @@
 
 ###
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
 
 
 ###
 
-<p align="left">- 🔭 I’m currently working on **MeetUpMaster**<br><br>- 🌱 I’m currently learning **Golang, Kubernetes Security**<br><br>- <img height="50" src="https://www.esel.dev/img/esel_logo_transparent.png"/> Founder of [ESELdevelopment](https://www.esel.dev)<br><br>- 💬 Ask me about **Linux and Kubernetes**<br><br>- 📫 How to reach me **Make a github issue in this repo **<br><br>- ⚡ Fun fact **I love Music and Sport**<br></p>
+<p align="left">- 🔭 I’m currently working on **MeetUpMaster**<br><br>- 🌱 I’m currently learning **Golang, Kubernetes Security**<br><br>- <img height="25" src="https://www.esel.dev/img/esel_logo_transparent.png"/> Founder of <a href="https://www.esel.dev">ESELdevelopment]</a><br><br>- 💬 Ask me about **Linux and Kubernetes**<br><br>- 📫 How to reach me **Make a github issue in this repo **<br><br>- ⚡ Fun fact **I love Music and Sport**<br></p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<img align="left" height="200" src="https://www.lpi.org/wp-content/uploads/2023/04/LPIC-1_250.png"  />
+<img align="left" height="200" src="https://www.guruteamirl.com/_fileupload/Image/Certification/Certification-311411343-lpic-1.jpg"  />
 
 ###
 
