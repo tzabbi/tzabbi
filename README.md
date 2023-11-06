@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on **MeetUpMaster**<br><br>- 🌱 I’m currently learning **Golang, Kubernetes Security**<br><br>- <img height="25" src="https://www.esel.dev/img/esel_logo_transparent.png"/> Founder of <a href="https://www.esel.dev">ESELdevelopment]</a><br><br>- 💬 Ask me about **Linux and Kubernetes**<br><br>- 📫 How to reach me **Make a github issue in this repo **<br><br>- ⚡ Fun fact **I love Music and Sport**<br></p>
+<p align="left">- 🔭 I’m currently working on **MeetUpMaster**<br><br>- 🌱 I’m currently learning **Golang, Kubernetes Security**<br><br>- <img height="25" src="https://www.esel.dev/img/esel_logo_transparent.png"/> Founder of <a href="https://www.esel.dev">ESELdevelopment</a><br><br>- 💬 Ask me about **Linux and Kubernetes**<br><br>- 📫 How to reach me **Make a github issue in this repo **<br><br>- ⚡ Fun fact **I love Music and Sport**<br></p>
 
 ###
 
