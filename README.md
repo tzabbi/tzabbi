@@ -10,7 +10,7 @@
 
 ###
 
-<img margin-right="100px" align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
+<img align="right" alt="Coding" width="340" margin-right="70px" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
 
 
 ###
