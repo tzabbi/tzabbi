@@ -10,12 +10,12 @@
 
 ###
 
-<img align="right" alt="Coding" width="490" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
+<img align="right" alt="Coding" width="480" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
 
 
 ###
 
-<p align="left">- 🔭 I’m currently working on <b>MeetUpMaster</b><br><br>- 🌱 I’m currently learning <b>Golang, Kubernetes Security</b><br><br>- <img height="15" src="https://www.esel.dev/img/esel_logo_transparent.png"/> Founder of <a href="https://www.esel.dev">ESELdevelopment</a><br><br>- 💬 Ask me about <b>Linux and Kubernetes</b><br><br>- 📫 How to reach me <b>Make a github issue in this repo </b><br><br>- ⚡ Fun fact <b>I love Music and Sport</b><br></p>
+<p align="left">- 🔭 I’m currently working on <b>MeetUpMaster</b><br><br>- 🌱 I’m currently learning <b>Golang, Kubernetes Security</b><br><br>- <img height="15" src="https://www.esel.dev/img/esel_logo_transparent.png"/> Founder of <a href="https://www.esel.dev">ESELdevelopment</a><br><br>- 💬 Ask me about <b>Linux and Kubernetes</b><br><br>- 📫 How to reach me <b>Make a github issue in this repo </b><br></p>
 
 ###
 
