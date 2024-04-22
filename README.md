@@ -30,11 +30,15 @@
 
 ###
 
+<img align="left" height="200" src="https://www.guruteamirl.com/_fileupload/Image/Certification/Certification-311411343-lpic-1.jpg"  />
+
+###
+
 <img align="left" height="200" src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/twitter_thumb_201604_cka_from_cncfsite__281_29.png"  />
 
 ###
 
-<img align="left" height="200" src="https://www.guruteamirl.com/_fileupload/Image/Certification/Certification-311411343-lpic-1.jpg"  />
+<img align="left" height="200" src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/twitter_thumb_201604_ckad_from_cncfsite.png"  />
 
 ###
 
