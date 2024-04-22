@@ -42,7 +42,7 @@
 
 ###
 
-<img align="left" height="200" src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/twitter_thumb_201604_ckad_from_cncfsite.png"  />
+<img align="left" height="200" src="https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png"  />
 
 ###
 
