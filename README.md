@@ -162,6 +162,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://camo.githubusercontent.com/688dd146829df04a6ac17a8c9cd861188731e8df30a20b5dda5eb83a4548cf62/68747470733a2f2f7777772e72757374616365616e2e6e65742f6173736574732f72757374616365616e2d6f7269672d6e6f736861646f772e737667" height="40" alt="rust mascot logo"  />
 </div>
 
 ###
