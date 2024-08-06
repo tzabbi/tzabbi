@@ -42,7 +42,7 @@
 
 ###
 
-<img align="left" height="200" src="https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png"  />
+<img align="left" height="200" src="./images/cks.png"  />
 
 ###
 
@@ -163,7 +163,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg" height="40" alt="powershell logo"  />
   <img width="12" />
-  <img src="https://camo.githubusercontent.com/688dd146829df04a6ac17a8c9cd861188731e8df30a20b5dda5eb83a4548cf62/68747470733a2f2f7777772e72757374616365616e2e6e65742f6173736574732f72757374616365616e2d6f7269672d6e6f736861646f772e737667" height="40" alt="rust mascot logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Original_Ferris.svg/1200px-Original_Ferris.svg.png" height="40" alt="rust mascot logo"  />
 </div>
 
 ###
